@@ -4,4 +4,4 @@ At some points in life, a man must recognize his death, although inevitable, som
 
 For these men only one sentence is theirs.
 
-{% include smile.html %}
+{% include youtube.html content="https://www.youtube.com/embed/dNQs_Bef_V8" %}
